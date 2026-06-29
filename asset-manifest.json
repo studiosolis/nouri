@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nouri/static/css/main.ed37d507.css",
+    "main.js": "/nouri/static/js/main.2ecef093.js",
+    "index.html": "/nouri/index.html",
+    "main.ed37d507.css.map": "/nouri/static/css/main.ed37d507.css.map",
+    "main.2ecef093.js.map": "/nouri/static/js/main.2ecef093.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed37d507.css",
+    "static/js/main.2ecef093.js"
+  ]
+}

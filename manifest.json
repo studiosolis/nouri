@@ -1,0 +1,24 @@
+{
+  "short_name": "Nouri",
+  "name": "Nouri — Nutrition Coach",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#6C63FF",
+  "background_color": "#0F1117",
+  "description": "Your personal evidence-based nutrition coach"
+}
